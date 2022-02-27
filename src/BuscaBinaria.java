@@ -1,4 +1,3 @@
-package br.com.itf.agendamento.job;
 
 import java.util.ArrayList;
 import java.util.Collections;
